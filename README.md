@@ -40,9 +40,6 @@ This Jupyter Notebook serves as a comprehensive guide to various data manipulati
 - Pandas
 - Seaborn
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 - [Pandas](https://pandas.pydata.org/)
 - [Seaborn](https://seaborn.pydata.org/)
